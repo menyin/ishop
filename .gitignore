@@ -30,3 +30,7 @@ hs_err_pid*
 
 ishop-dependencies/
 ishop-commons/
+ishop-commons-domain/
+ishop-commons-mapper/
+ishop-commons-service/
+ishop-database/
