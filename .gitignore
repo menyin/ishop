@@ -34,3 +34,5 @@ ishop-commons-domain/
 ishop-commons-mapper/
 ishop-commons-service/
 ishop-database/
+ishop-service-reg/
+ishop-service-gateway/
